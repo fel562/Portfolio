@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Rooney Sans';
+    src: local('Rooney Sans Regular'), local('Rooney-Sans-Regular'),
+        url('RooneySans-Regular.woff2') format('woff2'),
+        url('RooneySans-Regular.woff') format('woff'),
+        url('RooneySans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
